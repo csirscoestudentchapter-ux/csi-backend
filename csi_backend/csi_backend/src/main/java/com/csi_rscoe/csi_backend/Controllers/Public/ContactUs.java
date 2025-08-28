@@ -1,4 +1,4 @@
-package com.csi_rscoe.csi_backend.Controllers;
+package com.csi_rscoe.csi_backend.Controllers.Public;
 
 
 import com.csi_rscoe.csi_backend.DTOs.ContactMsg;
